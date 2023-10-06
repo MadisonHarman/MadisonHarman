@@ -22,7 +22,7 @@
 </div>
 
 ---
-### 👩🏻‍💻 About Me:
+### 👩‍💻 About Me:
 - :telescope: I'm currently a freshman at Louisiana State University, specifically in their Odgen Honors College program, majoring in Computer Science with a concentration in Software Engineering.
 
 - 💻 I am a newer developer looking to collaborate on another Android App Studio project. My latest is pinned!
