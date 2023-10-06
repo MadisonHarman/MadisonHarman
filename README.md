@@ -25,7 +25,7 @@
 ### 👩🏻‍💻 About Me:
 - :telescope: I'm currently a freshman at Louisiana State University majoring in Computer Science with a concentration in Software Engineering.
 
-- 💻 I am a newer developer looking to collaborate on another Android App Studio project. Here is my latest:   
+- 💻 I am a newer developer looking to collaborate on another Android App Studio project. My latest is pinned!
 
 - 💬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Madison_Harman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madison-harman-290242289) or madisonmarieharman@gmail.com/mharma6@lsu.edu.
 
