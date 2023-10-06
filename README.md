@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3o7qE1TfOPGlb5M5hu/giphy.gif?cid=ecf05e47simnz32rg4hqyx6wqihxxc472oucis04sf0v32lm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
----
 
+---
 ### 👩🏻‍💻 About Me:
 - :telescope: I'm currently a freshman at Louisiana State University majoring in Computer Science with a concentration in Software Engineering.
 
@@ -32,7 +32,6 @@
 - 🐈‍⬛ Fun fact: I love cats. Ask me about my cat, Charlotte!
 
 ---
-
 ### 💿 Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
