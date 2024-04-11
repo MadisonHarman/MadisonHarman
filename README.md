@@ -23,7 +23,7 @@
 
 ---
 ### 👩‍💻 About Me:
-- :telescope: I'm currently a first-gen freshman at Louisiana State University, specifically in their Ogden Honors College program, majoring in Computer Science with a concentration in Software Engineering.
+- :telescope: I'm currently a first-generation freshman at Louisiana State University, specifically in their Ogden Honors College program, majoring in Computer Science with a concentration in Software Engineering.
 
 - 💻 I am a newer developer looking to collaborate on another Android App Studio project. My latest is pinned!
 
