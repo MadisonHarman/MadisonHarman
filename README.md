@@ -41,5 +41,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
-  <img src="![scratch 256x230](https://github.com/MadisonHarman/MadisonHarman/assets/146497226/0341e536-b580-4fe2-8423-3ec230b5f2c4)" title="Scratch" alt="Scratch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/MadisonHarman/MadisonHarman/assets/146497226/0341e536-b580-4fe2-8423-3ec230b5f2c4" title="Scratch" alt="Scratch" width="40" height="40"/>&nbsp;
 </div>
