@@ -40,5 +40,5 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-   <img src="![image](https://github.com/MadisonHarman/MadisonHarman/assets/146497226/b9a1d0af-81e9-471a-84bb-fafdf3dab9d1)" title="Scratch" alt="Scratch" width="40" height="40"/>&nbsp;
+   <img src="![Uploading scratch-svgrepo-com.svg…]()" title="Scratch" alt="Scratch" width="40" height="40"/>&nbsp;
 </div>
