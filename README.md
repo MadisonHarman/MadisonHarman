@@ -23,7 +23,7 @@
 
 ---
 ### 👩‍💻 About Me:
-- :telescope: I'm currently a first-generation rising sophomore at Louisiana State University, specifically in their Ogden Honors College program, majoring in Computer Science with a concentration in Software Engineering.
+- :telescope: I’m a first-generation, second-year student at Louisiana State University, where I’m part of the Ogden Honors College, majoring in Computer Science with a focus on Software Engineering.
 
 - 💻 I am a newer developer looking to collaborate on a variety of projects. Whether that be concerning AI/machine learning or app creation (my latest is pinned/starred), I'm ready to take on a challenge!
 
