@@ -25,7 +25,7 @@
 ### 👩‍💻 About Me:
 - :telescope: I’m a first-generation, second-year student at Louisiana State University, where I’m part of the Ogden Honors College, majoring in Computer Science with a concentration in Software Engineering and minoring in Digital Media Arts & Engineering in Technology.
 
-- 💻 I am a newer developer looking to collaborate on a variety of projects. Whether that be concerning AI/Machine Learning or app creation, I'm ready to take on a challenge!
+- 💻 I am a newer developer looking to collaborate on a variety of projects. Whether that be concerning AI/Machine Learning (check out my most recent project here(https://github.com/iiqueenizzy13/AbtGlobal_1B)) or app creation, I'm ready to take on a challenge!
 
 - 💬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Madison_Harman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madison-harman-290242289) or mharma6@lsu.edu.
 
