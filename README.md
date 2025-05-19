@@ -22,10 +22,11 @@
 </div>
 
 ---
+
 ### 👩‍💻 About Me:
 - :telescope: I’m a first-generation, **third-year** student at **Louisiana State University**, part of the **Ogden Honors College**, majoring in **Computer Science** (Software Engineering concentration) and minoring in **Digital Media Arts & Engineering in Technology**.
 
-- 🤖 I’m especially interested in **AI and Machine Learning**, and recently competed in a **Kaggle competition** focused on predictive modeling—feel free to check out my take on it in my pinned repositories!
+- 🤖 I’m especially interested in **AI and Machine Learning**, and recently competed in a **[Kaggle competition](https://github.com/AI-Studio-Cerebrum/Spring-AI-Studio)** focused on predictive modeling for ADHD diagnosis—feel free to check out the project!
 
 - 💻 Proficient in **Java**, **Python**, **R**, and **Scratch**, with foundational knowledge in **C** and **Kotlin**—and always looking to learn more.
 
@@ -36,6 +37,7 @@
 - 🐈‍⬛ Fun fact: I’m a proud cat mom—ask me about my cat, **Charlotte**!
 
 ---
+
 ### 💿 Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="Github" width="40" height="40"/>&nbsp;
