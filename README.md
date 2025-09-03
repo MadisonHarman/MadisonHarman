@@ -28,7 +28,7 @@
 
 - 🤖 I’m especially interested in **AI and Machine Learning**, and recently competed in a **[Kaggle competition](https://github.com/AI-Studio-Cerebrum/Spring-AI-Studio)** focused on predictive modeling for ADHD diagnosis—feel free to check out the project!
 
-- 💻 Proficient in **Java**, **Python**, **R**, and **Scratch**, with foundational knowledge in **C** and **Kotlin**—and always looking to learn more.
+- 💻 Proficient in **Java**, **Python**, and **R**, with foundational knowledge in **C** and **Kotlin**—and always looking to learn more.
 
 - 💬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Madison_Harman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madison-harman-290242289) or mharma6@lsu.edu.
 
